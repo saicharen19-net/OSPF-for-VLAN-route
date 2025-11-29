@@ -33,3 +33,8 @@ Configuring SVIs for gateway assignment
 Establishing OSPF (process ID, network statements, router-ID)
 Verifying routing tables and cross-VLAN communication
 Testing reachability between Head Office & Branch Office
+
+📊 Final Implementation Snapshot:
+
+<img width="1538" height="683" alt="image" src="https://github.com/user-attachments/assets/6d1da984-7fa2-4aa7-b816-f33104641ac0" />
+
