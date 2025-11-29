@@ -1,2 +1,2 @@
-# OSPF-for-VLAN-route
-Here I configure OSPF inside a VLAN — enabling inter-VLAN routing and traffic exchange between different network segments. I Demonstrated step-by-step configuration using Cisco Packet Tracer, covering router setup, interface configuration, OSPF area assignment, and routing verification.
+# Head Office & Branch Office Network – VLAN + SVI + OSPF Lab
+This repository contains a Cisco Packet Tracer lab where a Head Office network with 3 VLANs is connected to a Branch Office network with 1 VLAN, using SVIs and OSPF routing to achieve full inter-site connectivity.
