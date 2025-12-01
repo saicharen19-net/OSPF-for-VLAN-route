@@ -38,3 +38,12 @@ Testing reachability between Head Office & Branch Office
 
 <img width="1538" height="683" alt="image" src="https://github.com/user-attachments/assets/6d1da984-7fa2-4aa7-b816-f33104641ac0" />
 
+✅ Verification & Testing - Devices in different network communicate successfully.
+
+<img width="1912" height="960" alt="image" src="https://github.com/user-attachments/assets/c3accf68-abee-4418-8c08-a8ed6e851a91" />
+
+👨‍💻 Author Sai Charen
+
+Skilled in Networking, Cisco Packet Tracer, and Enterprise IT Solutions.
+
+
